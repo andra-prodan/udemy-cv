@@ -1,0 +1,52 @@
+/*****Tag selectors*****/
+
+
+body{
+    background-color: #F0E9D2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+
+hr{
+    
+    border-style: none;
+    border-top: dotted;
+    border-color: #E6DDC4;
+    border-top-width: 5px;
+    width: 5%;
+}
+
+h1{
+    color: #DD5353;
+}
+
+h3{
+    color: #DD5353;
+}
+
+th{
+    color: #B73E3E;
+}
+img:hover{
+    border-color: #CD104D;
+}
+a{
+    color: #DD5353;
+}
+a:hover{
+    color:#CD104D;
+}
+/*****Class selectors*****/
+
+.profil{
+    border-radius: 50%;
+    border-style: dashed;
+    border-color: #DD5353;
+}
+
+/*****ID selectors*****/
+
+#title{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
